@@ -1,0 +1,61 @@
+
+
+.container{
+	position: absolute;
+	left: 20%;
+	width: 60%;
+	background-color: white;
+	/*transform: translate(-20%, -20%);*/
+}
+
+html, body {
+	background-color: lightblue;
+}
+
+h1 {
+	font-size: 80px;
+	font-family: Voga;
+	color: white;
+	text-align: center;
+	margin-top: 6px;
+	border: solid 4px orange;
+	margin-bottom: 30px;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+canvas {
+	position: absolute;
+	left: 50%;
+	transform: translate(-250px,40px);
+	background-color: white;
+	border: solid 4px purple;
+	font-weight: bold;
+}
+.footer {
+	position: absolute;
+	height: 9%;
+	top: 89%;
+	left: 50%;
+	width: 60%;
+	transform: translate(-50%,0%);
+	color: white;
+	font-size: 18px;
+	font-family: sans-serif;
+	padding: 5px;
+
+}
+form.ONE{
+	display: flex;
+	justify-content: center;
+}
+input.gameSize{
+	font-size: 20px;
+	
+}
+label.gameSizeLabel{
+	font-size: 18px;
+	font-family: sans-serif;
+	color: white;
+	padding-left: 20px;
+
+}
