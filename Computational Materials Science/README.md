@@ -1,1 +1,2 @@
-This folder contains some basic computational methods for calculating binary phase diagrams, stereographic projections of crystals etc.
+The following the some slef-completed projects in computational materials science : 
+1. 
